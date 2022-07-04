@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="assets/images/coding-guy.git" width="100"/>
+  <img src="assets/images/coding-guy.gif" width="100"/>
   <img src="assets/images/awesome-code.webp" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/sergiocruvinelborges/">
