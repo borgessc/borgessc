@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="assets/images/coding-guy.gif" width="100"/>
-  <img src="assets/images/awesome-code.webp" width="100"/>
+  <img src="assets/images/coding-guy.gif" width="300"/>
+  <br>
+  <img src="assets/images/awesome-code.webp" width="150"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/sergiocruvinelborges/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +10,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=borgessc&theme=blue-green)](https://git.io/streak-stats)
 </div>
+
 
 ### Hi there 👋
 
